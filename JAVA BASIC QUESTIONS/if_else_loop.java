@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//type Solution instead of if_else_loop if your are copy and pasting it in hackerrank text editor 😀
 public class  if_else_loop{
     public static void main(String[] args){
         Scanner sn = new Scanner(System.in);
